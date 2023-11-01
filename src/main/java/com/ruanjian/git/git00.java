@@ -8,6 +8,5 @@ public class git00 {
         System.out.println("hello git! 3");
         System.out.println("hello git! 4");
         System.out.println("fenzhi1.0 git!");
-        System.out.println("master text");
     }
 }
