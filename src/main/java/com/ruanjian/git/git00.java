@@ -9,6 +9,9 @@ public class git00 {
         System.out.println("hello git! 4");
         System.out.println("fenzhi1.0 git!");
         System.out.println("master text");
+
+        System.out.println("hello git! 5");
+        System.out.println("hello git! 6");
         System.out.println("shangchuan text1.0 git!");
     }
 }
